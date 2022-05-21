@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seatbookingapp/static/css/main.023c0abb.css",
+    "main.js": "/seatbookingapp/static/js/main.68f0b730.js",
+    "index.html": "/seatbookingapp/index.html",
+    "main.023c0abb.css.map": "/seatbookingapp/static/css/main.023c0abb.css.map",
+    "main.68f0b730.js.map": "/seatbookingapp/static/js/main.68f0b730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023c0abb.css",
+    "static/js/main.68f0b730.js"
+  ]
+}
