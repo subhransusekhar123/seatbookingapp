@@ -227,6 +227,16 @@ const BookSeat = () => {
 
       </div>
 
+      <div className="container">
+          <div className="container">
+            <button className="btn btn-success">b</button>-booked
+          </div>
+
+          <div className="container">
+            <button className="btn btn-secondary">num</button>-available
+          </div>
+        </div>
+
       <div className="container my-5 p-1 bg-warning">
         
 

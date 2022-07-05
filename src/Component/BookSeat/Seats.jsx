@@ -44,13 +44,7 @@ const Seats = ({ ele,index }) => {
   return (
       <>
         <span className="mx-2 my-2">
-        {/* {
-          
-        
-          select.includes(ele) || state ? <button className='btn btn-warning' onClick={()=>clickHandler(ele)}>{ele.class}</button> : <button className='btn btn-secondary' onClick={()=>clickHandler(ele)}>{ele.class}</button> 
-          
-          
-        } */}
+
 
 
         {
@@ -59,6 +53,8 @@ const Seats = ({ ele,index }) => {
 
 
         }
+
+      
 
        
 
